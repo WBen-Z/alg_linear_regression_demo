@@ -57,8 +57,17 @@ alg_linear_regression_demo/
 ---
 
 ## ⚙️ 环境依赖安装
+一键安装项目所需依赖：
+```bash
+pip install -r requirements.txt
 ```bash
 pip install numpy matplotlib
+```
+提交这个README改动：
+```powershell
+git add .
+git commit -m "docs: add dependency install section in readme"
+git push
 ```
 
 ## 🚀 项目运行命令
