@@ -76,16 +76,19 @@ git push
 ```powershell
 python tests/test_lr.py
 ```
+![alt text](image-2.png)
 
 2. 单独运行梯度下降实验
 ```powershell
 python experiments/run_gradient_descent.py
 ```
+![alt text](image.png)
 
 3. 单独运行最小二乘实验
 ```powershell
 python experiments/run_least_square.py
 ```
+![alt text](image-1.png)
 
 ---
 
