@@ -76,19 +76,25 @@ git push
 ```powershell
 python tests/test_lr.py
 ```
-![alt text](image-2.png)
+<p align="center">
+<img src="assets/image-2.png" alt="双模型对比可视化" width="700">
+</p>
 
 2. 单独运行梯度下降实验
 ```powershell
 python experiments/run_gradient_descent.py
 ```
-![alt text](image.png)
+<p align="center">
+<img src="assets/image.png" alt="梯度下降损失收敛曲线" width="700">
+</p>
 
 3. 单独运行最小二乘实验
 ```powershell
 python experiments/run_least_square.py
 ```
-![alt text](image-1.png)
+<p align="center">
+<img src="assets/image-1.png" alt="最小二乘拟合结果" width="700">
+</p>
 
 ---
 
